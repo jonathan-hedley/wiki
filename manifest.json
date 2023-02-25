@@ -30,7 +30,19 @@
       "output": {
         ".html": {
           "relative_path": "articles/readme.html",
-          "hash": "8DtbmVR3Zk4Ye1jVHoXbDw=="
+          "hash": "f+KknUAsw/H6u/JX9OMDFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/ssrs/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/ssrs/readme.html",
+          "hash": "uDuIjS0JOV4uDZQ/MfF3pg=="
         }
       },
       "is_incremental": false,
@@ -42,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "YCeIsN0sB8P+5MqUpNWhOA=="
+          "hash": "6R2kSo+uoyjVlgEAB9cLBw=="
         }
       },
       "is_incremental": false,
@@ -60,12 +72,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "+lir42fiTndZLaWni8N1qw=="
+          "hash": "um8owYGBXTUbQPcKf0q+TQ=="
         }
       },
       "is_incremental": false,
@@ -98,7 +113,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

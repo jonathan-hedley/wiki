@@ -2,7 +2,12 @@
   "articles/readme.html": {
     "href": "articles/readme.html",
     "title": "Welcome to the WIKI | Wiki",
-    "keywords": "Welcome to the WIKI"
+    "keywords": "Welcome to the WIKI SSRS"
+  },
+  "articles/ssrs/readme.html": {
+    "href": "articles/ssrs/readme.html",
+    "title": "SSRS | Wiki",
+    "keywords": "SSRS"
   },
   "index.html": {
     "href": "index.html",
