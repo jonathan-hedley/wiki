@@ -1,0 +1,17 @@
+{
+  "articles/readme.html": {
+    "href": "articles/readme.html",
+    "title": "Welcome to the WIKI | Wiki",
+    "keywords": "Welcome to the WIKI"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Wiki | Wiki",
+    "keywords": "Wiki Check out the Articles"
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "Wiki | Wiki",
+    "keywords": "Wiki | <!-- https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white --> <!-- https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white --> Site local Install Init: docfx init -q Build: docfx docfx.json Serve: docfx serve _site docfx docfx.json --serve /Users/jonathan_hedley/Documents/APPS/docfx/docfx docfx.json --serve"
+  }
+}
