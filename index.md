@@ -1,5 +1,5 @@
 # Wiki
 
-![Image](/images/48x48.png "Image")
+![Image](images/48x48.png "Image")
 
-Check out the [Articles](/articles/readme.html)
+Check out the [Articles](articles/readme.html)
